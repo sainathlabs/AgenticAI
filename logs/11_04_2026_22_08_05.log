@@ -1,3 +1,0 @@
-{"pdf_path": "E:\\MAHA\\AIPRO\\Agentic10PM\\MM-RAG-Project\\data\\Client_Contracts_Policies_and_Incident_Records.pdf", "output_dir": "E:\\MAHA\\AIPRO\\Agentic10PM\\MM-RAG-Project\\data\\parsed_pdf_output\\Client_Contracts_Policies_and_Incident_Records", "timestamp": "2026-11-04T16:38:05.077448Z", "level": "info", "event": "pdf_parser_initialized"}
-HTTP Request: GET https://b3cb9b6a-4307-4e96-a67a-395c5236493a.us-east-2-0.aws.cloud.qdrant.io:6333/collections/mm-rag-documents/exists "HTTP/1.1 200 OK"
-HTTP Request: GET https://b3cb9b6a-4307-4e96-a67a-395c5236493a.us-east-2-0.aws.cloud.qdrant.io:6333 "HTTP/1.1 200 OK"

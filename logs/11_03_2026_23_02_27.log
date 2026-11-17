@@ -1,8 +1,0 @@
-{"pdf_path": "E:\\MAHA\\AIPRO\\Agentic10PM\\MM-RAG-Project\\data\\Client_Contracts_Policies_and_Incident_Records.pdf", "output_dir": "E:\\MAHA\\AIPRO\\Agentic10PM\\MM-RAG-Project\\data\\parsed_pdf_output\\Client_Contracts_Policies_and_Incident_Records", "timestamp": "2026-11-03T17:32:39.423864Z", "level": "info", "event": "pdf_parser_initialized"}
-{"pdf_path": "E:\\MAHA\\AIPRO\\Agentic10PM\\MM-RAG-Project\\data\\Client_Contracts_Policies_and_Incident_Records.pdf", "timestamp": "2026-11-03T17:32:39.424377Z", "level": "info", "event": "pdf_parsing_started"}
-{"pages": 24, "images": 13, "timestamp": "2026-11-03T17:32:52.676891Z", "level": "info", "event": "pdf_content_extracted"}
-{"tables": 16, "timestamp": "2026-11-03T17:32:53.140697Z", "level": "info", "event": "pdf_tables_extracted"}
-{"documents": 53, "timestamp": "2026-11-03T17:32:53.172234Z", "level": "info", "event": "langchain_documents_created"}
-{"output_dir": "E:\\MAHA\\AIPRO\\Agentic10PM\\MM-RAG-Project\\data\\parsed_pdf_output\\Client_Contracts_Policies_and_Incident_Records", "timestamp": "2026-11-03T17:32:53.175742Z", "level": "info", "event": "parser_outputs_saved"}
-{"pdf_path": "E:\\MAHA\\AIPRO\\Agentic10PM\\MM-RAG-Project\\data\\Client_Contracts_Policies_and_Incident_Records.pdf", "timestamp": "2026-11-03T17:32:53.175742Z", "level": "info", "event": "pdf_parsing_completed"}
-{"error": "OPENAI_API_KEY is missing", "exc_info": true, "timestamp": "2026-11-03T17:33:49.930387Z", "level": "error", "event": "ingestion_initialization_failed"}
