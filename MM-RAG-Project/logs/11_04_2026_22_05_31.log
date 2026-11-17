@@ -1,0 +1,2 @@
+{"pdf_path": "E:\\MAHA\\AIPRO\\Agentic10PM\\MM-RAG-Project\\data\\Client_Contracts_Policies_and_Incident_Records.pdf", "output_dir": "E:\\MAHA\\AIPRO\\Agentic10PM\\MM-RAG-Project\\data\\parsed_pdf_output\\Client_Contracts_Policies_and_Incident_Records", "timestamp": "2026-11-04T16:35:31.370787Z", "level": "info", "event": "pdf_parser_initialized"}
+{"error": "OPENAI_API_KEY is missing", "exc_info": true, "timestamp": "2026-11-04T16:37:30.738042Z", "level": "error", "event": "ingestion_initialization_failed"}
